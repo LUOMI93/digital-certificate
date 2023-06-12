@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "name":"zcool-gdh",
+        "stuName":{"x":1200,"y":1380,"fs":200,"color":"white"},
+        "stuId":{"x":1200,"y":1800,"fs":110,"color":"white"},
+        "year":{"x":560,"y":2330,"fs":80,"color":"white"},
+        "college":{"width":750,"x":1250,"y":2330,"fs":200,"color":"white"},
+        "major":{"width":930,"x":300,"y":2430,"fs":200,"color":"white"},
+        "code":{"x":360,"y":1000,"size":200},     
+        "sty":{"f":"GaoDuanHeiXiuDing151105-1.ttf"}
+    },
+    {
+        
+    }
+]
